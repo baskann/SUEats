@@ -1,2 +1,4 @@
 # SUEats
-SUEats 2024-2025 SPRING CS 310 PROJECT
+SUEats — A Flutter-based mobile app enabling online food ordering from Sabancı University campus cafés and restaurants with pickup at dormitory entrances. Features include menu browsing, online payment, and real-time order tracking. (CS310 Term Project)
+
+
